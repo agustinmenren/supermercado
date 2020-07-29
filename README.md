@@ -1,2 +1,2 @@
 # supermercado
-Informatorio: programa supermercado
+Capacitación Informatorio: programa supermercado
